@@ -7,5 +7,3 @@ def test_ano():
 def test_1_2_3():
     assert 0 != 11
 
-def test_2_3_1():
-    assert 0 < 1
